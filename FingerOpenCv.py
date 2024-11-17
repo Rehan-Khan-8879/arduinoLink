@@ -1,3 +1,4 @@
+#this is the code fo counting number of fimger up and transmitting it to arduino
 import cv2
 import serial
 import time
